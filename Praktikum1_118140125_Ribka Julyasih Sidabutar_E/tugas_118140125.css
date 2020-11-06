@@ -1,0 +1,25 @@
+
+a{
+	display: inline-block;
+	padding: 15px;
+}
+
+.kolom1 {
+	height: auto;
+	width: 200px;
+	position: fixed;
+	background-color:#FFD700;
+}
+.kolom2 {
+	height: auto;
+	width: 584px; 
+	margin-left: 200px;
+	background-color:	#F08080
+}
+.footer {
+	background-color: 	#7B68EE;
+	width: 784px;
+	height: 100px; 
+	text-align: center;
+	position: fixed;
+}
