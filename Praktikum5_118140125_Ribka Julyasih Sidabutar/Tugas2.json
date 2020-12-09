@@ -1,0 +1,30 @@
+{
+    "datadiri": {
+        "nama": {
+            "awal": "Ribka",
+            "akhir": "Julyasih Sidabutar"
+        },
+        "status": "Mahasiswa",
+        "jeniskelamin": "Perempuan",
+        "alamat": {
+         
+            "Jalan"    : "Jl. Ryacudu, Gg. Perjuangan",
+            "Kecamatan": "Sukarame",
+            "Kabupaten": "Bandar Lampung",
+            "Provinsi" : "Lampung"
+        },
+        "orangtua": {
+            "bapak": "Goliaman Sidabutar",
+            "ibu"  : "Dohar Tabeta"
+        },
+        "sosialmedia"  : {
+            "instagram"   : "riibbkkaa",
+            "No_whatsapp" : "08992441901"
+        },
+        "hobi": {
+            "hobi1": "Renang",
+            "hobi2": "Menyanyi",
+            "hobi3": "Kulineran"
+        }
+    }
+}

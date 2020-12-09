@@ -1,0 +1,34 @@
+<?xml version=1?>
+<dataDiri>
+    <nama>
+        <awal>Ribka</awal>
+        <akhir>Julyasih Sidabutar</awal>
+    </nama>
+
+    <status>Mahasiswa</status>
+
+    <jenisKelamin>Perempuan</jenisKelamin>
+
+    <alamat>
+        <jalan>Jl. Ryacudu, Gg. Perjuangan</jalan>
+        <kecamatan>Sukarame</kecamatan>
+        <kabupaten>Bandar Lampung</kabupaten>
+        <Provinsi>Lampung</Provinsi>
+    </alamat>
+
+    <orangTua>
+        <bapak>Goliaman Sidabutar</bapak>
+        <ibu>Dohar Tabeta</ibu>
+    </orangTua>
+    
+    <socialMedia>
+        <instagram>riibbkkaa</instagram>
+        <No_whatsapp>08992441901</No_whatsapp>
+    </socialMedia>
+
+    <hobi>
+        <hobi1>Renang</hobi1>
+        <hobi2>Menyanyi</hobi2>
+        <hobi3>Kulineran</hobi3>
+    </hobi>
+</dataDiri>
